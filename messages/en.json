@@ -1,5 +1,11 @@
 {
   "IndexPage": {
     "title": "Hello!"
+  },
+  "ItemPage": {
+    "title": "Item"
+  },
+  "ItemsPage": {
+    "title": "Items"
   }
 }
